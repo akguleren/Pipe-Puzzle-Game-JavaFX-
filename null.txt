@@ -1,0 +1,16 @@
+1,PipeStatic,11
+2,PipeStatic,Horizontal
+3,PipeStatic,Horizontal
+4,PipeStatic,10
+5,PipeStatic,Vertical
+6,BeginScreen,1
+7,BeginScreen,2
+8,PipeStatic,Vertical
+9,PipeStatic,Vertical
+10,BeginScreen,3
+11,BeginScreen,4
+12,PipeStatic,Vertical
+13,PipeStatic,01
+14,PipeStatic,Horizontal
+15,PipeStatic,Horizontal
+16,PipeStatic,00
